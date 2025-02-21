@@ -1,0 +1,4 @@
+ccxt>=4.1.13
+Pillow>=10.0.0
+pystray>=0.19.4
+pyinstaller==5.13.2 
